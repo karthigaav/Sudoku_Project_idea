@@ -10,8 +10,7 @@ To design a multithreaded application that determines whether the solution to a 
 <ul>
 <li>A thread to check that each column contains the digits 1 through 9</li>
 <li>A thread to check that each row contains the digits 1 through 9</li>
-<li>Nine threads to check that each of the 3 × 3 subgrids contains the digits 1 through 9</li></ul></br>
-
+<li>Nine threads to check that each of the 3 × 3 subgrids contains the digits 1 through 9.</li></ul></ br>
 Therefore, from the above logic we can conclude there would be 11 seperate threads. However, it is possible to have more that 11 threads in this project.For example, rather than creating one thread that checks all nine columns, you could create nine separate threads and have each of them check
 one column.But, you may ask if too many threads will make the program or logic to be not effcient. Yes, that may or may not so I am planning to give a complete observation on two versions(i.e one application with 11 threads and another application with .<br>
 

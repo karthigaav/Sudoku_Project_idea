@@ -1,4 +1,4 @@
-# Sudoku_Project_idea
+# Sudoku_Project_idea (August 2015 - September 2015)
 
 <b>About Sudoku Game:</b></br>
 A Sudoku puzzle uses a 9 × 9 grid in which each column and row, as well as each of the nine 3 × 3 subgrids, must contain all of the digits 1 · · · 9.</br>
